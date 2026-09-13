@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "courseId": 2078,
+  "repository": "2026f-autotest/2026f-arceos-Alayfolk64",
+  "commit": "8e5255fa2438598d2849a1a95e1034077fcc24ad",
+  "score": 0,
+  "totalScore": 600,
+  "exercises": [
+    {
+      "name": "print_with_color",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 0
+    },
+    {
+      "name": "ramfs_rename",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 0
+    },
+    {
+      "name": "alt_alloc",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 0
+    },
+    {
+      "name": "support_hashmap",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 2
+    },
+    {
+      "name": "sys_map",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 0
+    },
+    {
+      "name": "simple_hv",
+      "max": 100,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 0
+    }
+  ],
+  "student": "Alayfolk64",
+  "runId": "34776283016"
+}
