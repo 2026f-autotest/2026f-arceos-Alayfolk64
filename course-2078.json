@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2078,
   "repository": "2026f-autotest/2026f-arceos-Alayfolk64",
-  "commit": "8e5255fa2438598d2849a1a95e1034077fcc24ad",
+  "commit": "31cebf46048b69942a3f4b04a00dbdb7cede9415",
   "score": 0,
   "totalScore": 600,
   "exercises": [
@@ -50,5 +50,9 @@
     }
   ],
   "student": "Alayfolk64",
-  "runId": "34776283016"
+  "runId": "34780364181",
+  "runAttempt": "1",
+  "upload": {
+    "status": "pending"
+  }
 }
