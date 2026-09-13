@@ -2,15 +2,15 @@
   "schema": 1,
   "courseId": 2078,
   "repository": "2026f-autotest/2026f-arceos-Alayfolk64",
-  "commit": "31cebf46048b69942a3f4b04a00dbdb7cede9415",
-  "score": 0,
+  "commit": "7f80f1527167b2f237f6d4b908b221549754d413",
+  "score": 100,
   "totalScore": 600,
   "exercises": [
     {
       "name": "print_with_color",
       "max": 100,
-      "score": 0,
-      "status": "fail",
+      "score": 100,
+      "status": "pass",
       "exitCode": 0
     },
     {
@@ -50,9 +50,9 @@
     }
   ],
   "student": "Alayfolk64",
-  "runId": "34780364181",
-  "runAttempt": "2",
+  "runId": "34781685108",
+  "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
